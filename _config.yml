@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Casey Flynn"
-  avatar           : "/images/ProfessionalPic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/ProPic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Wilkes-Barre, PA"
   email            : "cmflynn13@gmail.com"
