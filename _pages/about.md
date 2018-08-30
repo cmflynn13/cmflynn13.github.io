@@ -1,6 +1,8 @@
 ---
 title: "About"
 permalink: /about/
+  header:
+    image: "/images/ProPic.jpg"
 ---
 
 I'm a recent graduate and aspiring data scientist looking to apply my domain
