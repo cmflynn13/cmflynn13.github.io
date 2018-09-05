@@ -3,7 +3,6 @@ title: "DS Project: Offer Classifier"
 date: 2018-08-30
 tags: [machine learning, data science, classifier]
 header:
-  image: "/image/DCT.png"
 excerpt: "Machine Learning, Data Science, Classifier"
 ---
 

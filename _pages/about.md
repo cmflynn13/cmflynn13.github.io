@@ -4,7 +4,6 @@ layout: archive
 permalink: /about/
 author_profile: true
 header:
-  image: "/images/ProPic.jpg"
 ---
 
 I'm a recent graduate and aspiring data scientist looking to apply my domain

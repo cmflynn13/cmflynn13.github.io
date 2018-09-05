@@ -1,5 +1,5 @@
 ---
 title: "LinkedIn"
-permalink: /linkedin/
+permalink: /https://www.linkedin.com/in/cmf/
 
 ---
