@@ -1,8 +1,10 @@
 ---
 title: "About"
+layout: archive
 permalink: /about/
-  header:
-    image: "/images/ProPic.jpg"
+author_profile: true
+header:
+  image: "/images/ProPic.jpg"
 ---
 
 I'm a recent graduate and aspiring data scientist looking to apply my domain
