@@ -6,8 +6,10 @@ author_profile: true
 header:
 ---
 
-##Biotech writing sample
+## Biotech writing
+
 !["/images/NC.jpg"](https://github.com/cmflynn13/writing_samples/blob/master/Nanocarriers.pdf)
 
-##Business writing sample
+## Business writing sample
+
 !["/images/SA.jpg"](https://github.com/cmflynn13/writing_samples/blob/master/Strategic%20Analysis%20.pdf)
