@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Pharmaceutical Export Data"
+title: "DS Project: Data Analysis"
 date: 2018-09-05
 tags: [analysis, data science, visualization]
 header:
