@@ -3,23 +3,11 @@ title: "DS Project: Offer Classifier"
 date: 2018-08-30
 tags: [machine learning, data science, classifier]
 header:
-excerpt: "Machine Learning, Data Science, Classifier"
+excerpt: "Model that classifies potential students into accept/reject"
 ---
 
-# H1 Heading
-## H2 Heading
-### H3 Heading
+## Student Applicant Accept/Reject Classifier
+This project uses 3 years of data collected during my time as a graduate assistant. The goal is to eliminate
+eliminate a time consuming step (interviewing) in the application process.
 
-Just type
-
-here's *italics*
-here's **bold**
-here's a [link](https://linkedin.com...)
-bullets
-*
-+
--
-
-numbered list
-1. a
-2. b
+[<img src="/images/ExportAnalysis.jpg">](https://github.com/cmflynn13/projects/blob/master/pharam_export_data/Visualizing%20Pharma%20Export%20Data%20(1).ipynb)
