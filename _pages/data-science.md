@@ -1,7 +1,7 @@
 ---
+title: "Projects"
 layout: archive
 permalink: /data-science/
-title: "Projects"
 author_profile: true
 ---
 

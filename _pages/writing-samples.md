@@ -3,7 +3,6 @@ title: "Writing Samples"
 layout: archive
 permalink: /writing-samples/
 author_profile: true
-header:
 ---
 
 ## Biotech paper on [nanocarriers](https://en.wikipedia.org/wiki/Nanocarriers) for delivery of novel gene editing system
