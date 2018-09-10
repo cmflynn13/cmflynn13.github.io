@@ -1,7 +1,9 @@
 ---
 title: "Projects"
-layout: archive
+layout: collection
 permalink: /data-science/
+collection: data science
+entries_layout: grid
 author_profile: true
 ---
 
